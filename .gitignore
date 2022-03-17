@@ -114,3 +114,10 @@ dmypy.json
 .pyre/
 .DS_Store
 data/
+frederic/generated/web_pages_byCrawlDate.csv
+frederic/generated/web_pages_byCrawlDate_byLanguage.csv
+frederic/generated/web_pages_byCrawlDate_byLanguageAndDomain.csv
+frederic/generated/web_pages_byLanguage.csv
+frederic/generated/web_pages_byMIME.csv
+frederic/generated/web_pages_count_byCrawlDate.csv
+frederic/generated/web_pages_count_byDomain.csv
