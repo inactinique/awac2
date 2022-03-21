@@ -121,3 +121,5 @@ frederic/generated/web_pages_byLanguage.csv
 frederic/generated/web_pages_byMIME.csv
 frederic/generated/web_pages_count_byCrawlDate.csv
 frederic/generated/web_pages_count_byDomain.csv
+*.lock
+*.dirlock
