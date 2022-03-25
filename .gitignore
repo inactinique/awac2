@@ -127,3 +127,4 @@ frederic/feminism/generated/content_clean.csv
 frederic/feminism/generated/web_pages_byCrawlDate_byLanguage.csv
 frederic/feminism/generated/web_pages_count_byDomain.csv
 frederic/feminism/generated/words_count.csv
+*.csv
