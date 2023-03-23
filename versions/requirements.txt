@@ -1,0 +1,9 @@
+pandas
+matplotlib
+altair
+tldextract
+networkx
+nltk
+spacy
+vaderSentiment
+wordcloud
